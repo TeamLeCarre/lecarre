@@ -1,0 +1,18 @@
+:root
+{
+	--violet: #6c5ce7;
+	--violet-t: #6c5ce777;
+	--rose: #a29bfe;
+	--blanc: white;
+	--noir: #2d3436;
+	--vert: #00CC00;
+	--rouge: #CC0000;
+	
+	--limite: 1024px;
+}
+
+@font-face
+{
+ font-family: font;
+ src: url("font.ttf");
+}
